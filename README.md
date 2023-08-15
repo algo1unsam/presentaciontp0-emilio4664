@@ -4,7 +4,7 @@ Tengo 21 años, estoy estudiando una tecnicatura universitaria de programación 
 ### Mis hobbies son:
 - Andar en bici
 - Comer
-* *Contemplar la gran inmensidad del universo pensando que en el cada uno de nosotros somos tan insignificantes como un gramo de arena en un gran desierto y que no importa lo que hagas al final de cuentas no va a importar ya que somos tan irrelevantes en un universo donde no importamos.* *
+- _Contemplar la gran inmensidad del universo pensando que en el cada uno de nosotros somos tan insignificantes como un gramo de arena en un gran desierto y que no importa lo que hagas al final de cuentas no va a importar ya que somos tan irrelevantes en un universo donde no importamos._
 - Jugar juegos en la compu
 
 ### Foto de mi persona:
